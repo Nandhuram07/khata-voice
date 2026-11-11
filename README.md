@@ -8,6 +8,7 @@ Khata Voice is an AI-powered payment assistant designed for small merchants and 
 
 🔗 **Live Demo:** https://khata-voice-coral.vercel.app  
 💻 **GitHub:** https://github.com/Nandhuram07/khata-voice
+🟥⃢▸ **Youtube:** https://youtu.be/6ZAwFUNhBEA
 
 ---
 
